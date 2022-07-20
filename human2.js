@@ -1,6 +1,5 @@
 import Human from '@vladmandic/human'
 
-
 class CamElement extends HTMLElement {
   constructor() {
     super();
