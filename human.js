@@ -6,7 +6,7 @@ class CamElement extends HTMLElement {
     super();
     
     this.innerHTML = `<header> 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/human/2.1.5/human.js"></script>
+    <script type="module" src="https://cdnjs.cloudflare.com/ajax/libs/human/2.1.5/human.js"></script>
     </header>
   <body>  
     <video>
